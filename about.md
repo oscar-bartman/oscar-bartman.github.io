@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### More Information
-
+I love code. Writing code, writing about code, thinking about code, talking about code. And JavaScript, I love Javascript.
 
 ### Contact me
 
