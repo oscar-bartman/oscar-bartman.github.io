@@ -143,7 +143,7 @@ async function receiveInsultFromFoo(fooId: int, insult: int) {
 
 ### Testing it
 
-When testing this we can completely isolate the function we would like to test by importing that function directly. This way our unit level of testing becomes a function, rather than a class. 
+When testing this we can completely isolate the function we would like to test by importing that function directly. This way, our unit level of testing becomes a function, rather than a class. 
 
 ``` typescript
 jest.mock("../src/foo/config.ts", () => ({
