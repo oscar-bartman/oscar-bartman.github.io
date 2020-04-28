@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dependency Injection vs Simple Modules in Node: a Foo Fighting Showdown"
-tags: [Node, Dependencies, IoC, Modules, TypeScript]
+tags: [Node, Dependencies, Modules, TypeScript, Classes]
 comments: true
 ---
 
