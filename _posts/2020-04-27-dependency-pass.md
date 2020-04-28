@@ -37,7 +37,7 @@ class FooFighterImplementation implements FooFighter {
     }
 }
 ```
-The main here idea is that the calling code that uses the `FooFighterImplementation` never needs to be aware of the dependency being used to do the actual `foo` handling, in our case a `WeFightFooIncClient` instantiation named `client`. The logic involved with actually using the client is contained within the class. 
+The main idea is that the calling code that uses the `FooFighterImplementation` never needs to be aware of the dependency being used to do the actual `foo` handling, in our case a `WeFightFooIncClient` instantiation named `client`. The logic of actually using the client is contained within the class. 
 
 ### Using it
 
@@ -56,7 +56,7 @@ async function receiveInsultFromFoo(fooId: int, insult: int) {
 }
 ```
 
-The client is gets passed from a higher level than the implementation itself. As a result, the initialization logic of `WeFightFooIncClient` is now removed from the implementation that uses it. A developer will have to take more steps to trace the initialization when he/she is working on the code. Confused and without guidance, developers will stare at their screen blankly and ruminate on the question: 
+The client is gets passed from a higher level than the implementation itself. As a result, the initialization logic of `WeFightFooIncClient` is removed from the implementation that uses it. A developer will have to take more steps to trace the initialization when he/she is working on the code. Confused and without guidance, developers will stare at their screens blankly and ruminate on the question: 
 > Where do I initialize this client? 
 
 ### Testing it
