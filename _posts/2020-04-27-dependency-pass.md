@@ -170,6 +170,6 @@ With complexity in mind, you are likely better off keeping your implementations 
 ---
 ### Further Reading: 
 - [How to Use Classes and Sleep at Night](https://medium.com/@dan_abramov/how-to-use-classes-and-sleep-at-night-9af8de78ccb4)
-- [Testing with Seams](https://www.informit.com/articles/article.aspx?p=359417&seqNum=1).
+- [Testing with Seams](https://www.informit.com/articles/article.aspx?p=359417&seqNum=1)
 - [Node Modules](https://nodejs.org/dist/latest-v14.x/docs/api/modules.html)
 - [TypeScript Class Interfaces](https://www.typescriptlang.org/docs/handbook/interfaces.html#class-types)
