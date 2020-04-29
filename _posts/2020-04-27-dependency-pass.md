@@ -16,7 +16,7 @@ Dependency handling in your codebase hits some important aspects of maintainabil
 
 ## Class-based with Injection
 
-Our first contender hails from a lineage of OOP practices and injects its dependencies into class instantiations via the constructor. Classes are modeled with the use of TypeScripts `interface`. Our foo fighting example: 
+Our first contender hails from a lineage of OOP practices and injects its dependencies into class instantiations via the constructor. Classes are modeled with the use of TypeScript's `interface`. Our foo fighting example: 
 
 ### Building it
 
@@ -56,7 +56,7 @@ async function receiveInsultFromFoo(fooId: int, insult: int) {
 }
 ```
 
-The client is gets passed from a higher level than the implementation itself. As a result, the initialization logic of `WeFightFooIncClient` is removed from the implementation that uses it. A developer will have to take more steps to trace the initialization when he/she is working on the code. Confused and without guidance, developers will stare at their screens blankly and ruminate on the question: 
+The client gets passed from a higher level than the implementation itself. As a result, the initialization logic of `WeFightFooIncClient` is removed from the implementation that uses it. A developer will have to take more steps to trace the initialization when he/she is working on the code. Confused and without guidance, developers will stare at their screens blankly and ruminate on the question: 
 > Where do I initialize this client? 
 
 ### Testing it
@@ -80,7 +80,7 @@ describe("FooFighterImplementation", () => {
 });
 ```
 
-Note that the unit we are testing is not a function but the class instead. That is: *the tests we can now build provide me the assurance only that the method will work within the context of this class.* 
+Note that the unit we are testing is not a function but the class instead. That is: *the tests we can now build provide us the assurance only that the method will work within the context of this class.* 
 
 ## Node Modules with Direct Loading
 
@@ -165,7 +165,7 @@ Instead of passing a mocked dependency, we leverage the Node module system to al
 
 # Conclusion
 
-With complexity in mind, you are likely better off keeping your implementations as clean and functional as possible. Leveraging Node modules, rather than introducing a class-based structure, allows us to isolate and test single exported functions. It makes it easier to intuit where initialization logic should be found and it makes for readable, unit-testable and functional code.
+With complexity in mind, you are likely better off keeping your implementations as clean and functional as possible. Leveraging Node modules, rather than introducing a class-based structure, allows us to isolate and test single exported functions. It makes it easier to intuit where initialization logic should be found and it makes for readable, unit-testable code.
 
 ---
 ### Further Reading: 
