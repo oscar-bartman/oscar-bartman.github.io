@@ -2,7 +2,6 @@
 layout: post
 title: "Dependency Injection vs Simple Modules in Node: a Foo Fighting Showdown"
 tags: [Node, Dependencies, Modules, TypeScript, Classes]
-comments: true
 ---
 
 Here we look at two different styles of dependency handling, one a class-based approach with dependency injection through constructor parameters, the other a straight forward node module that simply loads its dependencies.
