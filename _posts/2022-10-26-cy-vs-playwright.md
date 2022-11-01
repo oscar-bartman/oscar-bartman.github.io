@@ -4,7 +4,7 @@ title: "Cypress vs Playwright"
 tags: [Frontend, Cypress, E2E, JavaScript, Playwright, Testing]
 ---
 
-The following a short summary of findings from a shallow comparison between Cypress and Playwright. Both Cypress and Playwright are end-to-end testing tools that incorporate neatly into your codebase and work by playing out scripted scenarios on you application. Cypress v1.0.0 was released in 2017 and is currently at v10.11.0. Playwright v1.0.0 stems from 2020 and is currently at v1.27.1.
+The following is a short summary of findings from a shallow comparison between Cypress and Playwright. Both Cypress and Playwright are end-to-end testing tools that incorporate neatly into your codebase and work by playing out scripted scenarios on you application. Cypress v1.0.0 was released in 2017 and is currently at v10.11.0. Playwright v1.0.0 stems from 2020 and is currently at v1.27.1.
 
 ## async/await
 
