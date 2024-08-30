@@ -1,19 +1,20 @@
-When following the plot, you want to see things happen in the place where you are reading. Not five functions deep, amid forgotten bugfixes. 
+...you want to see things happen in the place where you are reading. 
+
+Not five levels deep,
+
+amid forgotten bugfixes. 
 
 ```js
-const message1 = { content: "message", timestamp: 123456789 }
-
 function sideEffect(message) {
-  message.content = "different message"
+  message.content = "side effect"
 }
-
-sideEffect(message1)
-
-const message2 = { content: "message", timestamp: 123456789 }
 
 function noSideEffect(message) {
-  return { ...message, content: "different message" }
+  return { ...message, content: "no side effect" }
 }
 
-const message3 = noSideEffect(message2)
+const message1 = { content: "message", timestamp: 123456789 }
+
+sideEffect(message1)
+const message2 = noSideEffect(message1)
 ```
