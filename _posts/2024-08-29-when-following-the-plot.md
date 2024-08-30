@@ -1,4 +1,4 @@
-...you want to see things happen in the place where you are reading. 
+you want to see things happen in the place where you are reading. 
 
 Not five levels deep,
 
