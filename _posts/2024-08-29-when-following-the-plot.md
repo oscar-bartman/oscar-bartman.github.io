@@ -12,9 +12,4 @@ function sideEffect(message) {
 function noSideEffect(message) {
   return { ...message, content: "no side effect" }
 }
-
-const message1 = { content: "message", timestamp: 123456789 }
-
-sideEffect(message1)
-const message2 = noSideEffect(message1)
 ```
