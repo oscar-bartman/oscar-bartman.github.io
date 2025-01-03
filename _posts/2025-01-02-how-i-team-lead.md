@@ -6,31 +6,6 @@ These principles flow from the individual level to the team level, meaning that 
 
 Note that, the ideas described here are far from exhaustive when it comes to a theory about leadership. They are more of a collection of thoughts, but I have tried to organize them as much as possible. 
 
-## Rhythm
-
-Rhythm can be understood as *recurring motions*. It is what allows people to know what comes next.
-
-At the individual level, you will find that rhythm frees up mental space to work on complex ideas, because you don't have to think about the next thing that should happen. 
-When you work, reflect and take breaks at a regular interval, you can detach from a task more easily. You will find that there is no need to sink into a problem for days on end, only to come out the other side to find that you have neglected other aspects of your life. Rhythm allows you to say "I will work on this for 2 hours now, and tomorrow  I will pick it up again."
-
-At the team level, rhythm is very important. Think of a group of jazz musicians jamming out some improvisational music. Without rhythm, they would just produce a grating cacophony you would like to get away from, regardless of the skill of each individual musician. This goes for a team of developers as well. If they do not work to a rhythm you will soon find them working on a loosely related set of projects that are difficult to integrate.
-
-But rhythm does not imply strict rigidity either. On the contrary. Once you have rhythm, you will find space to experiment and improvise. Rhythm gives you the hooks to tie new ideas and solutions into. 
-
-### Rituals
-
-The way we apply rhythm is through *rituals*. A ritual can be generally understood as a sequence of activities that we perform in the same manner at intervals. A ritual can be "every day before the lunch break we come together and discuss what we are working on", or "every first day of the week we discuss what we want to achieve and what we will focus on in the upcoming days". We apply rhythm to the team by placing these rituals at daily, weekly, quarterly, and yearly intervals.
-
-Rituals can be used to hook new ideas into. If we want to try out a new way of working, we can introduce this during one ritual performance, and then reflect on it at the next performance. If we like the idea, it becomes part of the team's way of working. Maybe it even becomes a new ritual. If we do not like it, we can do away with it again. 
-
-The word "ritual" may imply some kind of sacredness, and this only partly true. If a ritual is not held in high regard, and people show up late, unprepared, or not at all, then the ritual breaks down. It loses its strength and its value to the team. On the other hand, if rituals are held too sacred it may prevent the team from changing them when change is needed. 
-
-### Self-similarity
-
-Self similarity means that the rituals we perform at short intervals should be copied over to the longer intervals. Remember that the purpose is to allow everyone to already know what to expect. Hence, the way we plan ahead for the week, is the same way we plan ahead for the quarter, and for the year. The way we look back at the previous week is the same way that we look back at the previous quarter, and the year. 
-
-Naturally, as the intervals become larger, the level at which we are planning or retrospecting becomes higher. Also, as the intervals become larger, it becomes more important to take into consideration where the organization wants to be in the long term. But, at the core, these structures are self-similar in that we copy them over and repeat them at different intervals. It allows everyone to understand what we are doing, and what we are doing it for. Ideally, nobody should be surprised about the intended purpose of a ritual and almost no preparation should be needed. Everyone should be able to take what they already know, and apply it to a longer stretch of time, a more generalized goal, etc.
-
 ## Structure 
 
 Rather than the imposition of some kind of form, structure can be better understood as the absence of clutter. I put it that way, because, as a team lead, applying structure becomes the bane of your existence. Both *rhythm* and *pace* will largely keep going once they are put in place and will mainly require that you monitor and correct when needed. Applying structure, on the other hand, is something you will have to do every single day. As such, I find it more helpful to have an understanding of *structure* that I can more easily activate. I find that the removal of clutter becomes easier to put into practice than imposing structure on a set of unstructured elements. It causes much less friction and it is a lot easier to break down into discrete units of work. This is very similar to cleaning up a codebase. Often, the structure is there, you just need to clear away the cobwebs and put things in their right place.
@@ -73,6 +48,31 @@ It is often useful to ask, "why can we not take that last step now?" This will l
 
 In short: if you do not know how a story or epic should unfold, try telling the story from end to beginning. Throughout this process you can mine for context, risks and dependencies.
 
+## Rhythm
+
+Rhythm can be understood as *recurring motions*. It is what allows people to know what comes next.
+
+At the individual level, you will find that rhythm frees up mental space to work on complex ideas, because you don't have to think about the next thing that should happen. 
+When you work, reflect and take breaks at a regular interval, you can detach from a task more easily. You will find that there is no need to sink into a problem for days on end, only to come out the other side to find that you have neglected other aspects of your life. Rhythm allows you to say "I will work on this for 2 hours now, and tomorrow  I will pick it up again."
+
+At the team level, rhythm is very important. Think of a group of jazz musicians jamming out some improvisational music. Without rhythm, they would just produce a grating cacophony you would like to get away from, regardless of the skill of each individual musician. This goes for a team of developers as well. If they do not work to a rhythm you will soon find them working on a loosely related set of projects that are difficult to integrate.
+
+But rhythm does not imply strict rigidity either. On the contrary. Once you have rhythm, you will find space to experiment and improvise. Rhythm gives you the hooks to tie new ideas and solutions into. 
+
+### Rituals
+
+The way we apply rhythm is through *rituals*. A ritual can be generally understood as a sequence of activities that we perform in the same manner at intervals. A ritual can be "every day before the lunch break we come together and discuss what we are working on", or "every first day of the week we discuss what we want to achieve and what we will focus on in the upcoming days". We apply rhythm to the team by placing these rituals at daily, weekly, quarterly, and yearly intervals.
+
+Rituals can be used to hook new ideas onto. If we want to try out a new way of working, we can introduce this during one ritual performance, and then reflect on it at the next performance. If we like the idea, it becomes part of the team's way of working. Maybe it even becomes a new ritual. If we do not like it, we can do away with it again. 
+
+The word "ritual" may imply some kind of sacredness, and this only partly true. If a ritual is not held in high regard, and people show up late, unprepared, or not at all, then the ritual breaks down. It loses its strength and its value to the team. On the other hand, if rituals are held too sacred it may prevent the team from changing them when change is needed. 
+
+### Self-similarity
+
+Self similarity means that the rituals we perform at short intervals should be copied over to the longer intervals. Remember that the purpose is to allow everyone to already know what to expect. Hence, the way we plan ahead for the week, is the same way we plan ahead for the quarter, and for the year. The way we look back at the previous week is the same way that we look back at the previous quarter, and the year. 
+
+Naturally, as the intervals become larger, the level at which we are planning or retrospecting becomes higher. Also, as the intervals become larger, it becomes more important to take into consideration where the organization wants to be in the long term. But, at the core, these structures are self-similar in that we copy them over and repeat them at different intervals. It allows everyone to understand what we are doing, and what we are doing it for. Ideally, nobody should be surprised about the intended purpose of a ritual and almost no preparation should be needed. Everyone should be able to take what they already know, and apply it to a longer stretch of time, a more generalized goal, etc.
+
 ## Pace
 
 Pace can be understood as the forward momentum of the team. Much like the same concept in physical space, it is subject to [inertia](https://en.wikipedia.org/wiki/Inertia). If the team has forward momentum it is likely to keep going forward, whereas if the team becomes stagnant, it will require energy to get it going again. Hence, keeping the pace is important as it directly affects the team's morale and productivity. This mostly requires addressing obstacles that can sap the energy and bring work to a halt. Here are a few things to look out for.  
@@ -87,4 +87,4 @@ Lengthy meetings can drain everyone's energy and tend to produce more confusion 
 
 When facing uncertainty, it is often best to **just try something and learn as quickly as possible.** This may sound a bit reckless, but often it is much more productive to take the best couple of ideas your team comes up with in half an hour of discussion, pick one and run with it, and see where it breaks down. Then, when you have seen it fail, you gather your data, analyze it, come up with a better idea, and run it again.
 
-This cycle of *pick a solution, try it out, watch it fail, gather data, extract lessons, refine/ditch your solution for something else, repeat* can be safely performed only if you have all your pre-prod environments and rollback mechanisms in place. This motivates the team to keep those environments and mechanisms up to spec. Most importantly, it keeps the pace going. The cycle can be hooked into your team's *rituals* and discussions can be had about concrete solutions and actual data. Documentation can be short and pertaining to actual lessons learned. 
+This cycle of *pick a solution, try it out, watch it fail, gather data, extract lessons, refine/ditch your solution for something else, repeat* can be safely performed only if you have all your pre-prod environments and rollback mechanisms in place. This motivates the team to keep those environments and mechanisms up to spec. Most importantly, it keeps the pace going. The cycle can be hooked onto your team's *rituals* and discussions can be had about concrete solutions and actual data. Documentation can be short and pertaining to actual lessons learned. 
