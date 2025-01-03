@@ -1,4 +1,4 @@
-When you are working for a startup, everything is important, and everything has to happen now. If you let your pace be dictated by the chaotic nature of a startup organization you will quickly run out of breath and find yourself working on many things without completing any of it.
+When working in a startup environment, everything is important, and everything has to happen now. If you let your pace be dictated by the chaotic nature of a startup organization you will quickly run out of breath and find yourself working on many things without completing any of it.
 
 The only way to deal with this, I have found, is to take control over the *structure* of your work; meaning which concerns are allowed in, and which will be parked for later; the *pace*, making sure there is forward momentum in the work you are doing without being hampered down by unnecessary complications; and *rhythm*, creating an environment that is void of any surprises and that allows you and your team members to know what to expect.
 
@@ -31,14 +31,14 @@ Under the first header I write down things that I want to accomplish, and under 
 
 Stories are intended to convey the meaning behind a unit of work to anyone within and outside the team who has a stake in the completion of that work. In their ideal form, they can be understood by anyone, from the developers who need to implement the work, to the product owner who needs to understand why we are working on something, to someone from the company's management team who is surveying what goes on in our team. 
 
-The human brain is hardwired for narrative structure. It is the single most powerful technology we have used throughout the ages to convey meaning from generation upon generation. It is, therefore, no surprise that we use that same technology, in the shape of *stories* and *epics*, when conveying the work we do. 
+The human brain is hardwired for narrative structure. It is the single most powerful technology we have used throughout the ages to convey meaning from generation upon generation. It is, therefore, not surprising that we use the same technology, in the shape of *stories* and *epics*, when conveying the work we do. 
 
-All narrative structure includes at least the following components: 
+All narrative structure includes at least the following elements: 
 - **Context:** all stories take place within some context. It needs to be made clear what that context is from the outset. Keep in mind that the person(s) you are writing the story with usually has this context as a memorized blob inside his/her brain somewhere, and that translating that blob into written text is hard. It is often tempting to assume that whoever is reading the story will also have access to the blob, but this is rarely the case. *Think of the least informed reader, and imagine yourself explaining the story to this person. What does that person need to know before you can start explaining the rest of the story.* 
 - **Conflict/Problem:** all stories introduce some kind of conflict that drives the story forward. The conflict is the thing that needs to be resolved, the reason we have to write the story in the first place. 
 - **Plot:** all stories describe a series of steps that have to be narrated to resolve the conflict and to reach the new, desired state. These steps are usually described in separate *tasks* and can be left up to the developers that refine the story. Some tasks can be known in advance, but often they are added while the story is being worked on and as developers learn new things. In their ideal form, tasks should map to integrations of work into the mainline of the codebase and should be workable in the span of a single day at most. 
 
-Generally, it is best to take the lead in writing the stories together with developers. Developers will possess most of the context, but often they have a hard time putting themselves into the shoes of the least informed reader. In addition, developers tend to have less proclivity to produce written text. Ideally, you want developers to be good writers. 
+Generally, it is best to take the lead in writing the stories together with developers. Developers will possess most of the context, but often they have a hard time putting themselves into the shoes of the least informed reader. In addition, some developers may not be strong writers. 
 
 ### Exploring Solutions
 
